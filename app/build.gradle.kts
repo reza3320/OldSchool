@@ -68,4 +68,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation(platform(libs.firebase.bom))
     implementation(libs.firebase.analytics)
+    implementation("io.supabase:supabase-android:1.0.0-beta-4")
 }

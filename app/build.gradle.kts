@@ -69,4 +69,5 @@ dependencies {
     implementation(platform(libs.firebase.bom))
     implementation(libs.firebase.analytics)
     implementation("io.supabase:supabase-android:1.0.0-beta-4")
+    implementation ("io.agora.rtc:full-sdk:3.5.0")
 }
